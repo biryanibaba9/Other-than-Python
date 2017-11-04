@@ -1,0 +1,7 @@
+#Tue Oct 17 11:00:25 CDT 2017
+base.0=/Users/shreyas/Desktop/Android/Assignment-1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf6fd6ab69a473ed557f63549a86eb21139694cd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/shreyas/Desktop/Android/Assignment-1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e51bde3d5001a56455a66a16123f160a502b09c/classes.dex
+base.1=/Users/shreyas/Desktop/Android/Assignment-1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e51bde3d5001a56455a66a16123f160a502b09c
+file.0=/Users/shreyas/Desktop/Android/Assignment-1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf6fd6ab69a473ed557f63549a86eb21139694cd/classes.dex

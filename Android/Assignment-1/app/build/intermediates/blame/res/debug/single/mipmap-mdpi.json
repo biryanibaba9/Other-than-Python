@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shreyas/Desktop/Android/Assignment-1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/shreyas/Desktop/Android/Assignment-1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shreyas/Desktop/Android/Assignment-1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/shreyas/Desktop/Android/Assignment-1/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

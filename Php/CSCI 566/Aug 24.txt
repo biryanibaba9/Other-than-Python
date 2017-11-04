@@ -1,0 +1,12 @@
+conceptual data model:
+1. mainly a communication tool.
+2. not related to a DBMS.
+3. semantics and meaning of the data.
+Logical data model: (relational)
+1.data is stored in relations. (tables)
+2. Oracle, DB2, Ingress, Mysql, Access etc.
+Network data model:
+1. data stored in records. IDMS.
+Attribute is used to track back.Oval is used.
+It is also referred to as intersection data.
+Degree of a relationship is the number of enitities associated with it.
